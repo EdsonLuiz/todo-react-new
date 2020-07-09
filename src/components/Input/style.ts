@@ -13,6 +13,7 @@ export const Container = styled.div<ContainerProps>`
   width: 436px;
   color: #232323;
   display: flex;
+  flex:1; /*te falei do flex 1 alterado */
   align-items: center;
 
   input {
